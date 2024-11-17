@@ -527,7 +527,7 @@ h1 span {
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    padding-top: 25px;
+    padding-top: 50px;
   }
   .hero-site .txt-hero {
     max-width: 600px;
@@ -561,6 +561,10 @@ h1 span {
 
 body {
   background-color: #F9E9E8;
+}
+
+html, body {
+  overflow-x: hidden;
 }
 
 .container {
