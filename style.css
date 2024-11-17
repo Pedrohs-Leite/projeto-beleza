@@ -281,7 +281,7 @@ section.sobre {
   justify-content: center;
   align-items: center;
   height: 70vh;
-  background-image: url(../img/sala-bg.jpg);
+  background-image: url(../img/sala-bg.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -439,7 +439,7 @@ footer .container p {
 }
 section.hero-site {
   height: 100vh;
-  background-image: url(../img/bg-estetic.jpg);
+  background-image: url(../img/bg-estetic.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
