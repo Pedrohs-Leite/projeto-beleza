@@ -8,7 +8,7 @@ revelar.reveal('.diferenciais-list',{duration:1000,distance:'90px',origin:'right
 revelar.reveal('.t1',{duration:1050,distance:'90px',origin:'left'})
 revelar.reveal('.t2',{duration:1050,distance:'90px',origin:'right'})
 revelar.reveal('.t3',{duration:1050,distance:'90px',origin:'left'})
-revelar.reveal('.t4',{duration:1050,distance:'90px',origin:'right',reset:false})
+revelar.reveal('.t4',{duration:1050,distance:'90px',origin:'right',})
 revelar.reveal('.tx2',{duration:1200,distance:'90px',origin:'right',scale:0.85})
 revelar.reveal('.ch',{duration:1200,distance:'90px',origin:'top',scale:0.85})
 AOS.init()
