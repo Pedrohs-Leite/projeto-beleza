@@ -573,7 +573,7 @@ html, body {
   line-height: 50px;
   font-weight: 500;
   margin-top: 0.5em;
-  font-family: "Playfair Display", serif;
+  font-family: "Playfair Display", Arial, serif;
 }
 .titulo p {
   color: #4A4A4A;
@@ -581,7 +581,7 @@ html, body {
   margin: 10px auto;
   padding: 0 20px;
   max-width: 800px;
-  font-family: "Merriweather", serif;
+  font-family: "Merriweather", Arial, serif;
 }
 
 .titulo span {
